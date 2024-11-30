@@ -12,8 +12,10 @@
    ![OpenGL控制设计](https://github.com/capp-adocia/Learn_OpenGL/blob/master/OpenGL/Image/OpenGL%E6%8E%A7%E5%88%B6%E8%AE%BE%E8%AE%A1.png)
 
 3. **轨迹球与正交投影**：(Video)
+   ```点击以下链接观看```
    [![轨迹球与正交投影](OpenGL/video/trackBallControl.mp4)](https://github.com/capp-adocia/Learn_OpenGL/blob/master/OpenGL/video/trackBallControl.mp4)
    
 4. **游戏控制器与透视投影**：(Video)
+    ```点击以下链接观看```
    [![游戏控制器与透视投影](OpenGL/video/gameControl.mp4)](https://github.com/capp-adocia/Learn_OpenGL/blob/master/OpenGL/video/gameControl.mp4)
    
